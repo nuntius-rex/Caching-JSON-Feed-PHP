@@ -1,13 +1,6 @@
 <?PHP
 //============================================================================================
-// Note: This block of code is used to display the file as code:
-	if(isset($_GET["code"])){
-		highlight_file( __FILE__ );	die();
-	}
-// This single page PHP is coded in a simple in-line method to quickly and simplistically 
-// convey the logic for the demo. It is not intended to imply a preference as opposed to 
-// OOP or MVC methodologies by the author.
-// 
+// Caching a JSON feed with PHP
 // Author: Dan Guinn - danguinn.com
 //============================================================================================
 
